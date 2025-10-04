@@ -46,6 +46,13 @@ A comprehensive JavaScript course covering everything from basic syntax to advan
 - [29 - Calculator](./06-projects/29-calculator.md)
 - [30 - Quiz App](./06-projects/30-quiz-app.md)
 
+### 💼 **Level 7: Interview Questions**
+- [Interview Questions](./07-interview-questions/README.md)
+  - [Beginner Level](./07-interview-questions/01-beginner/)
+  - [Intermediate Level](./07-interview-questions/02-intermediate/)
+  - [Advanced Level](./07-interview-questions/03-advanced/)
+  - [Expert Level](./07-interview-questions/04-expert/)
+
 ## 🎯 Learning Path
 
 ### **Beginner (Weeks 1-2)**
